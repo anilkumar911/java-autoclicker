@@ -1,4 +1,5 @@
 # java-autoclicker
+This is a command line autoclicker.
 
 ## To compile
 
