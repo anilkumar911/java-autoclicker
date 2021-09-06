@@ -12,3 +12,6 @@ javac AutoClicker.java
 ```
 java AutoClicker
 ```
+
+# TODO
+Use this for better control of autoclicker: https://github.com/kwhat/jnativehook
